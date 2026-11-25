@@ -1,6 +1,6 @@
 # Chapter 1: Introduction to data science
 
-This chapter is taught from slides. Below is the updated outline (about 20 slides) with speaker notes, replacing the 2025 deck. Examples from 2011-2015 have been replaced with current ones.
+This chapter is taught from slides: [slides.pdf](slides.pdf) (or the editable [slides.pptx](slides.pptx)). Below are the learning outcomes, the slide outline with notes, and the reading list.
 
 ## Learning outcomes
 
