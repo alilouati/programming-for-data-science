@@ -1,6 +1,6 @@
 # Chapter 1: Introduction to data science
 
-This chapter is taught from slides: [slides.pdf](slides.pdf) (or the editable [slides.pptx](slides.pptx)). Below are the learning outcomes, the slide outline with notes, and the reading list.
+This chapter is taught from slides: [slides.pdf](slides.pdf). Below are the learning outcomes, the slide outline with notes, and the reading list.
 
 ## Learning outcomes
 
